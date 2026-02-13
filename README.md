@@ -1,2 +1,2 @@
 ﻿# types-of-lists-used-in-html
-https://github.com/ffakilan8-byte/types-of-lists-used-in-html.git
+https://ffakilan8-byte.github.io/types-of-lists-used-in-html/
